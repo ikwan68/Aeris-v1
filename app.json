@@ -1,0 +1,18 @@
+{
+	"name": "Aeris-v1",
+	"description": "𝐀 𝐝𝐞𝐚𝐝𝐥𝐲 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐛𝐨𝐭 made by 𝐉𝐎𝐒𝐄𝐏𝐇ᵍʳᵉʸ ",
+	"repository": "https://github.com/ikwan68/Aeris-v1",
+	"logo": "https://telegra.ph/file/178680f8048d4a4c1637d.jpg",
+	"keywords": ["multi-device"],
+"buildpacks": [
+      {
+        "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          }
+     ]
+}
