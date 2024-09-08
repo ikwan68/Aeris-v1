@@ -76,7 +76,7 @@ SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W"
 ## `Main Dev` 
 <a href="https://github.com/ikwan68"><img src="https://i.imgur.com/QvvICDx.jpeg" width="250" height="250" alt="ikwan68"/></a>
   
-`AERIS-V1 - By 𝐉𝐎𝐒𝐄𝐏𝐇ᵍʳᵉʸ & GREYS`
+`AERIS-V1 - By J𝐎𝐒𝐄𝐏𝐇 & Greys`
 
 <h2 align="center">  Reminder
 </h2>
